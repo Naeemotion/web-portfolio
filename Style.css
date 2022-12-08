@@ -1,0 +1,73 @@
+body{
+  margin: 0;
+  font-family: 'poppins' , sans-serif;
+}
+
+h1{
+  font-size: 50px;
+}
+
+.orang-highlight{
+  color: orange;
+}
+
+.first-part{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+.first-part img{
+  width: 90%;
+}
+
+.top-banner{
+  background-image: url("photos/back.png");
+  background-repeat: no-repeat;
+}
+
+section{
+  height: 500px;
+  padding-bottom: 200px;
+}
+
+.link-button{
+  text-decoration: none;
+  background-image: linear-gradient(45deg, rgb(243, 156, 18),rgb(241, 196, 15));
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 600;
+
+  
+}
+
+.dream-area{
+  background-image: url("photos/backo.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+
+.single-experience{
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 5px;
+  height: 60%;
+}
+
+.experience-area{
+  background-image: url("photos/backoo.png");
+  background-repeat: no-repeat;
+}
+
+#bhore-de{
+  border-left: 7px solid;
+  border-image: linear-gradient(lightsalmon,tomato);
+  border-image-slice: 1;
+}
+#bhore-dee{
+  border-left: 7px solid;
+  border-image: linear-gradient(blue,violet);
+  border-image-slice: 1;
+}
